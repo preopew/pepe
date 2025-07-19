@@ -40,5 +40,7 @@ btn_answer1.clicked.connect(show_lose)
 btn_answer2.clicked.connect(show_lose)
 btn_answer4.clicked.connect(show_lose)
 
+print('hola')
+
 main_win.show()
 app.exec_()
